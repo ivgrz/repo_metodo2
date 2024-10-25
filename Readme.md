@@ -1,6 +1,8 @@
 # Metodo 2
 **Instrucciones**
 
+*Ivan Gutierrez*
+
 * Abrimos el repositorio en una pestaña del navegador
 
 * Nos posicionamos en el apartado CODE marcado en verde
