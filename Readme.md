@@ -1,7 +1,8 @@
 # Metodo 2
-**Instrucciones**
 
 *Ivan Gutierrez*
+
+**Instrucciones**
 
 * Abrimos el repositorio en una pestaña del navegador
 
